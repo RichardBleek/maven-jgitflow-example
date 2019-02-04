@@ -30,7 +30,7 @@
                 <groupId>external.atlassian.jgitflow</groupId>
                 <artifactId>jgitflow-maven-plugin</artifactId>
                 <version>1.0-m5.1</version>
-                <!-- for goals see: https://bitbucket.org/atlassian/jgit-flow/wiki/goals.wiki -->
+                <!-- for goals & conf. see: https://bitbucket.org/atlassian/jgit-flow/wiki/goals.wiki -->
             </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
