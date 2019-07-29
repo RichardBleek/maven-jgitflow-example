@@ -1,5 +1,7 @@
 #### jgitflow implementation example
 
+Demo project for quickly demoing jgitflow and it's features.
+
 ##### Maven plugin goals
 ```
 jgitflow:feature-start Starts a feature branch
@@ -12,4 +14,4 @@ jgitflow:build-number Updates the pom versions in the current branch by adding a
 ```
 
 ##### jgitflow documentation
-for more information and docks see the project page by Atlassion: https://bitbucket.org/atlassian/jgit-flow/
+for more information and docks see the project page by Atlassion: https://bitbucket.org/atlassian/jgit-flow/ (pretty hard to navigate)
